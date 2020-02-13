@@ -1,0 +1,28 @@
+
+Create React Native project using Expo 
+ 
+    expo init AwesomeProject
+
+Dependencies used in the project
+
+React Navigation
+    npm install --save react-navigation
+    npm install --save react-navigation-stack
+
+React screen handling 
+    npm install --save @react-native-community/masked-view
+    npm install --save react-native-safe-area-view 
+    npm install --save react-native-safe-area-context
+
+Linking navigation
+    react-native link @react-native-community/masked-view
+    react-native link react-native-safe-area-context
+
+ToastAndroid 
+    npm install react-native-toast-android --save
+
+ImageLoading Placeholder
+    npm i --save react-native-image-placeholder
+
+Internet handling
+    npm install @react-native-community/netinfo --save

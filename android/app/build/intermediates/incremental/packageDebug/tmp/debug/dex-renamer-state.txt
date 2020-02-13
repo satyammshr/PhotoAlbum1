@@ -1,0 +1,7 @@
+#Wed Feb 12 15:50:47 IST 2020
+base.1=/Users/perusudroid/ReactNative/PhotoApp/PhotoAlbum/android/app/build/intermediates/transforms/dexMerger/debug/1
+path.1=classes.dex
+base.0=/Users/perusudroid/ReactNative/PhotoApp/PhotoAlbum/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
